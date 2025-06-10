@@ -90,7 +90,4 @@ retail-management-system
 - Once logged in, you can manage items through the dashboard.
 
 ## Contributing
-Feel free to submit issues or pull requests for improvements or bug fixes. 
-
-## License
-This project is open-source and available under the MIT License.
+Feel free to submit issues or pull requests for improvements or bug fixes.
